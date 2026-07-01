@@ -1,0 +1,51 @@
+{
+  "name": "dragpunk-theme",
+  "displayName": "DragPunk Theme",
+  "description": "A premium VS Code theme inspired by a Cyber-Dragon aesthetic, featuring high-contrast obsidian backgrounds, glowing crimson highlights, and cyber-jade accents. Meticulously optimized for MERN developers.",
+  "version": "1.0.0",
+  "publisher": "uttkarsh",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dragon",
+    "cyberpunk",
+    "neon",
+    "mern",
+    "react",
+    "dark"
+  ],
+  "galleryBanner": {
+    "color": "#0c0c0f",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/dragpunk-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/dragpunk-theme/issues"
+  },
+  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/dragpunk-theme#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "DragPunk Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dragpunk-dark-color-theme.json"
+      },
+      {
+        "label": "DragPunk Light",
+        "uiTheme": "vs-light",
+        "path": "./themes/dragpunk-light-color-theme.json"
+      }
+    ]
+  }
+}
