@@ -4,7 +4,7 @@
 
 ---
 
-## 🎨 Theme Variants
+## Theme Variants
 
 ### 1. DragPunk Dark
 An obsidian midnight theme representing the scales of a cyber-dragon with glowing crimson highlights, gold keywords, and cyber-jade components.
@@ -34,7 +34,7 @@ DragPunk optimizes coding speed and visual parsing across JavaScript/TypeScript,
 
 ---
 
-## 🚀 Installation & Local Verification
+## Installation & Local Verification
 
 To sideload and verify DragPunk in your local VS Code workspace:
 
@@ -50,5 +50,5 @@ code --install-extension your_file_path/dragpunk-theme/dragpunk-theme-1.0.0.vsix
 
 ---
 
-## 📜 License
+## License
 This extension is licensed under the [MIT License](LICENSE).
