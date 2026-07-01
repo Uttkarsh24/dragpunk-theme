@@ -23,7 +23,7 @@ A highly legible light theme inspired by warm dragon parchment and fiery accents
 
 ---
 
-## ⚡ Tailored for MERN Developers
+## Tailored for MERN Developers
 
 DragPunk optimizes coding speed and visual parsing across JavaScript/TypeScript, React JSX, Node, and MongoDB:
 
