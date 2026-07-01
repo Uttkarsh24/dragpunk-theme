@@ -39,12 +39,12 @@ DragPunk optimizes coding speed and visual parsing across JavaScript/TypeScript,
 To sideload and verify DragPunk in your local VS Code workspace:
 
 ### Method 1: From VS-CODE Extensions
-
+Still in Progress....
 
 ### Method 2: Local Installation from VSIX
 We have packaged the extension into a single `.vsix` file. You can install it directly by running:
 ```bash
-code --install-extension 
+code --install-extension your_file_path/dragpunk-theme/dragpunk-theme-1.0.0.vsix
 ```
 
 
